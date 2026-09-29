@@ -9,8 +9,8 @@
     },
     .dependencies = .{
         .ssl = .{
-            .url = "git+https://github.com/google/boringssl#535cc391915c37912ff9b3edb0cff9b3c5c77db0",
-            .hash = "N-V-__8AADGOTAg2qy2JMjVSleelXVWZhf9UTIjkuioQsv9-",
+            .url = "git+https://github.com/google/boringssl#7c1efd8d6ffb36a57feba44e8c73cf674801f3cb",
+            .hash = "N-V-__8AAEhRag6gHL85MNqOxGFtJs5Lu9fK22BDYLMwOJs6",
         },
     },
 }
